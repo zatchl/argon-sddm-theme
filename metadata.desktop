@@ -1,0 +1,11 @@
+[SddmGreeterTheme]
+Name=Test1
+Description=Test1 Theme
+License=CC-BY-SA
+Type=sddm-theme
+Version=0.1
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+Theme-Id=test1
+Theme-API=2.0
